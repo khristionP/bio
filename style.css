@@ -1,0 +1,129 @@
+.name {
+	color: white;
+	font-size: 60px;
+	border: 5px solid white;
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 100px;
+}
+
+.slump {
+	color: white;
+	font-size: 125px;
+	border: 5px solid white;
+	padding: 15px;
+	letter-spacing: 20px;
+}
+
+body {
+	font-family: 'Staatliches', cursive;
+}
+
+.top {
+	background-image: url(img/slump.jpg);
+	height:75vh;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+
+.logo {
+	position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100px;
+    width: 150px;
+}
+
+.bio {
+	color: black;
+	font-size: 20px;
+	border: 5px solid black;
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 100px;
+
+}
+
+.descrip {
+	
+	padding: 15px;
+}
+
+.mini {
+	height: 300px;
+	float: right;
+	padding: 15px;
+}
+
+.middle {
+	color: black;
+	font-size: 50px;
+	border: 5px solid black;
+	text-align: center;
+	padding: 15px;
+	background-color: white;
+}
+
+.albums {
+	color: black;
+	font-size: 50px;
+	border: 5px solid black;
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 100px;
+	background-color: blue;
+}
+
+.singles {
+	color: black;
+	font-size: 50px;
+	border: 5px solid black;
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 100px;
+	background-color: blue;
+}
+
+.random {
+	color: black;
+	font-size: 40px;
+	border: 5px solid black;
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 100px;
+	background-color: white;
+}
+
+.randomsecond {
+	color: black;
+	font-size: 40px;
+	border: 5px solid black;
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 100px;
+	background-color: white;
+}
+
+.img {
+	opacity: 0.5;
+	padding: 5px;
+}
+
+.bottom {
+	background-image: url(img/xxl.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	position: relative;
+}
+.overlay {
+	background-color: #fff;
+	opacity: .7;
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+}
